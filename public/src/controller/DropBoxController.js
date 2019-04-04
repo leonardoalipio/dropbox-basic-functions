@@ -24,7 +24,7 @@ class DropBoxController {
 
     initFirebase() {
         var config = {
-            apiKey: "AIzaSyDIYyLOpmiO115RTj9IgBZ7nvOj6UQtoiA",
+            apiKey: "mykey",
             authDomain: "dropbox-basic-function.firebaseapp.com",
             databaseURL: "https://dropbox-basic-function.firebaseio.com",
             projectId: "dropbox-basic-function",
